@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = MmSortableItem::VERSION
   s.authors     = ["Matt Wilson"]
   s.email       = ["mhw@hypomodern.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "https://github.com/agoragames/mm_sortable_item"
+  s.summary     = "Tiny MongoMapper plugin for treating a collection as a list"
+  s.description = "Tiny MongoMapper plugin for treating a collection as a list"
 
   s.rubyforge_project = "mm_sortable_item"
 
